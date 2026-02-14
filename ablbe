@@ -1,1 +1,3 @@
-work
+mkdir work
+cd work
+touch hello.html
